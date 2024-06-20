@@ -1,0 +1,3 @@
+com\develhope\demo_deploy02\DemoDeploy02Application.class
+com\develhope\demo_deploy02\controllers\SumController.class
+com\develhope\demo_deploy02\ServletInitializer.class
