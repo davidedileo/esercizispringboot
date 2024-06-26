@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.develhope.demo_deploy02.DemoDeploy02ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.300 s -- in com.develhope.demo_deploy02.DemoDeploy02ApplicationTests
